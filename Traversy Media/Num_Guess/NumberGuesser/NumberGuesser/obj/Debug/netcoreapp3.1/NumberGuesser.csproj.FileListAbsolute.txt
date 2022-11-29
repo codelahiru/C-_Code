@@ -1,0 +1,13 @@
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.exe
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.deps.json
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.json
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.runtimeconfig.dev.json
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.dll
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\bin\Debug\netcoreapp3.1\NumberGuesser.pdb
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.AssemblyReference.cache
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfoInputs.cache
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.AssemblyInfo.cs
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.csproj.CoreCompileInputs.cache
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.dll
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.pdb
+E:\Work\Code\Projects\C Sharp\Traversy Media\Num_Guess\NumberGuesser\NumberGuesser\obj\Debug\netcoreapp3.1\NumberGuesser.genruntimeconfig.cache
